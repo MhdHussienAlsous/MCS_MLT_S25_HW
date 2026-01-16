@@ -1,0 +1,16 @@
+segment_type,segment_value,rank,path,frequency,won,lost,ongoing,win_rate,avg_touches
+Solution,MRS,1,Email,710,1,21,688,0.14084507042253522,1.0
+Solution,MRS,2,Email → Email → Email → Email → Email,597,94,80,423,15.745393634840871,17.12395309882747
+Solution,MRS,3,Inbound Call,526,0,0,526,0.0,1.0
+Solution,MRS,4,Email → Email,433,6,17,410,1.3856812933025404,2.0
+Solution,MRS,5,Meeting → Meeting → Meeting → Meeting → Meeting,390,184,102,104,47.179487179487175,40.746153846153845
+Solution,Digital,1,Meeting → Meeting → Meeting → Meeting → Meeting,31,24,2,5,77.41935483870968,95.80645161290323
+Solution,Digital,2,Meeting → Meeting → Email → Email → Email,10,9,0,1,90.0,57.2
+Solution,Digital,3,Email → Email → Email → Email → Email,10,7,1,2,70.0,60.6
+Solution,Digital,4,Email → Email → Inbound Call → Inbound Call → Inbound Call,6,0,0,6,0.0,17.666666666666668
+Solution,Digital,5,Inbound Call → Inbound Call → Inbound Call → Inbound Call,5,0,0,5,0.0,4.0
+Solution,PLS,1,Email → Email,5,0,0,5,0.0,2.0
+Solution,PLS,2,Inbound Call,5,0,0,5,0.0,1.0
+Solution,PLS,3,Email,3,0,0,3,0.0,1.0
+Solution,PLS,4,Email → Inbound Call,3,0,0,3,0.0,2.0
+Solution,PLS,5,Inbound Call → Email,3,0,0,3,0.0,2.0

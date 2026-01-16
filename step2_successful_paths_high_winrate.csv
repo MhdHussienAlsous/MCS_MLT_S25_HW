@@ -1,0 +1,8 @@
+segment_type,segment_value,rank,path,frequency,won,lost,ongoing,win_rate,avg_touches,country,solution
+Country,US,2,Meeting → Meeting → Meeting → Meeting → Meeting,404,208,105,91,51.48514851485149,44.70792079207921,,
+Solution,Digital,2,Meeting → Meeting → Email → Email → Email,10,9,0,1,90.0,57.2,,
+Solution,Digital,1,Meeting → Meeting → Meeting → Meeting → Meeting,31,24,2,5,77.41935483870968,95.80645161290323,,
+Solution,Digital,3,Email → Email → Email → Email → Email,10,7,1,2,70.0,60.6,,
+Country_x_Solution,US_x_Digital,2,Meeting → Meeting → Email → Email → Email,9,9,0,0,100.0,60.22222222222222,US,Digital
+Country_x_Solution,US_x_Digital,1,Meeting → Meeting → Meeting → Meeting → Meeting,27,24,2,1,88.88888888888889,88.88888888888889,US,Digital
+Country_x_Solution,US_x_Digital,3,Email → Email → Email → Email → Email,9,7,1,1,77.77777777777779,63.111111111111114,US,Digital

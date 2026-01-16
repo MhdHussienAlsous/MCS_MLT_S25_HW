@@ -1,0 +1,76 @@
+segment_type,segment_value,country,solution,rank,path,frequency,won,lost,ongoing,win_rate,avg_touches
+Country_x_Solution,AT_x_MRS,AT,MRS,1,Email → Email → Email → Email → Email,23,0,0,23,0.0,8.043478260869565
+Country_x_Solution,AT_x_MRS,AT,MRS,2,Email,19,0,0,19,0.0,1.0
+Country_x_Solution,AT_x_MRS,AT,MRS,3,Email → Email,18,0,0,18,0.0,2.0
+Country_x_Solution,AT_x_MRS,AT,MRS,4,Email → Email → Email,6,0,0,6,0.0,3.0
+Country_x_Solution,AT_x_MRS,AT,MRS,5,Email → Email → Email → Email,4,0,0,4,0.0,4.0
+Country_x_Solution,BE_x_MRS,BE,MRS,1,Email → Email,4,0,0,4,0.0,2.0
+Country_x_Solution,BE_x_MRS,BE,MRS,2,Email,3,0,0,3,0.0,1.0
+Country_x_Solution,BE_x_MRS,BE,MRS,3,1st Appointment,1,0,0,1,0.0,1.0
+Country_x_Solution,BE_x_MRS,BE,MRS,4,Email → Email → Meeting,1,0,0,1,0.0,3.0
+Country_x_Solution,BE_x_MRS,BE,MRS,5,Inbound Call → 2nd Appointment → Email,1,0,0,1,0.0,3.0
+Country_x_Solution,CA_x_MRS,CA,MRS,1,Email,10,0,0,10,0.0,1.0
+Country_x_Solution,CA_x_MRS,CA,MRS,2,Email → Email → Email → Email → Email,7,0,0,7,0.0,12.714285714285714
+Country_x_Solution,CA_x_MRS,CA,MRS,3,Email → Email,5,0,0,5,0.0,2.0
+Country_x_Solution,CA_x_MRS,CA,MRS,4,Email → Email → Email,3,0,0,3,0.0,3.0
+Country_x_Solution,CA_x_MRS,CA,MRS,5,Email → Email → Email → Follow Up → Email,3,0,0,3,0.0,14.0
+Country_x_Solution,CH_x_MRS,CH,MRS,1,Email → Email → Email → Email → Email,39,0,0,39,0.0,8.794871794871796
+Country_x_Solution,CH_x_MRS,CH,MRS,2,Email,20,0,0,20,0.0,1.0
+Country_x_Solution,CH_x_MRS,CH,MRS,3,Email → Email,18,0,0,18,0.0,2.0
+Country_x_Solution,CH_x_MRS,CH,MRS,4,Email → Email → Email → Email,13,0,0,13,0.0,4.0
+Country_x_Solution,CH_x_MRS,CH,MRS,5,Email → Email → Email,7,0,0,7,0.0,3.0
+Country_x_Solution,DE_x_MRS,DE,MRS,1,Email,193,0,0,193,0.0,1.0
+Country_x_Solution,DE_x_MRS,DE,MRS,2,Email → Email → Email → Email → Email,184,0,0,184,0.0,10.0
+Country_x_Solution,DE_x_MRS,DE,MRS,3,Email → Email,154,0,0,154,0.0,2.0
+Country_x_Solution,DE_x_MRS,DE,MRS,4,Email → Email → Email,99,0,0,99,0.0,3.0
+Country_x_Solution,DE_x_MRS,DE,MRS,5,Email → Email → Email → Email,54,0,0,54,0.0,4.0
+Country_x_Solution,IE_x_MRS,IE,MRS,1,Call,12,0,0,12,0.0,1.0
+Country_x_Solution,IE_x_MRS,IE,MRS,2,Email → Email,5,0,0,5,0.0,2.0
+Country_x_Solution,IE_x_MRS,IE,MRS,3,Email,4,0,0,4,0.0,1.0
+Country_x_Solution,IE_x_MRS,IE,MRS,4,Call → Call,3,0,0,3,0.0,2.0
+Country_x_Solution,IE_x_MRS,IE,MRS,5,Meeting → Call,3,0,0,3,0.0,2.0
+Country_x_Solution,IT_x_MRS,IT,MRS,1,Call → Call → Call → Call → Call,5,0,0,5,0.0,11.2
+Country_x_Solution,IT_x_MRS,IT,MRS,2,Meeting,5,0,0,5,0.0,1.0
+Country_x_Solution,IT_x_MRS,IT,MRS,3,Email,4,0,0,4,0.0,1.0
+Country_x_Solution,IT_x_MRS,IT,MRS,4,Call,4,0,0,4,0.0,1.0
+Country_x_Solution,IT_x_MRS,IT,MRS,5,1st Appointment,3,0,0,3,0.0,1.0
+Country_x_Solution,NL_x_MRS,NL,MRS,1,Email → Email,6,0,0,6,0.0,2.0
+Country_x_Solution,NL_x_MRS,NL,MRS,2,Email → Email → Email,3,0,0,3,0.0,3.0
+Country_x_Solution,NL_x_MRS,NL,MRS,3,Email,2,0,0,2,0.0,1.0
+Country_x_Solution,NL_x_MRS,NL,MRS,4,1st Appointment,2,0,0,2,0.0,1.0
+Country_x_Solution,NL_x_MRS,NL,MRS,5,Email → Email → 1st Appointment,1,0,0,1,0.0,3.0
+Country_x_Solution,UK_x_Digital,UK,Digital,1,Meeting → Meeting → Meeting → Meeting → Meeting,4,0,0,4,0.0,142.5
+Country_x_Solution,UK_x_Digital,UK,Digital,2,Email,2,0,0,2,0.0,1.0
+Country_x_Solution,UK_x_Digital,UK,Digital,3,1st Appointment → 1st Appointment → 1st Appointment → 1st Appointment → 1st Appointment,1,0,0,1,0.0,42.0
+Country_x_Solution,UK_x_Digital,UK,Digital,4,1st Appointment → Email,1,0,0,1,0.0,2.0
+Country_x_Solution,UK_x_Digital,UK,Digital,5,1st Appointment → 1st Appointment → Meeting → Meeting → Demo,1,0,0,1,0.0,22.0
+Country_x_Solution,UK_x_MRS,UK,MRS,1,Email,142,0,0,142,0.0,1.0
+Country_x_Solution,UK_x_MRS,UK,MRS,2,1st Appointment,73,0,0,73,0.0,1.0
+Country_x_Solution,UK_x_MRS,UK,MRS,3,Follow Up,59,0,0,59,0.0,1.0
+Country_x_Solution,UK_x_MRS,UK,MRS,4,Email → Email,47,0,0,47,0.0,2.0
+Country_x_Solution,UK_x_MRS,UK,MRS,5,Call,43,0,0,43,0.0,1.0
+Country_x_Solution,UK_x_PLS,UK,PLS,1,1st Appointment → 1st Appointment → 1st Appointment → 1st Appointment → 2nd Appointment,1,0,0,1,0.0,36.0
+Country_x_Solution,UK_x_PLS,UK,PLS,2,1st Appointment → 1st Appointment → 2nd Appointment → 2nd Appointment → 2nd Appointment,1,0,0,1,0.0,10.0
+Country_x_Solution,UK_x_PLS,UK,PLS,3,2nd Appointment → 2nd Appointment → 2nd Appointment → 2nd Appointment → 2nd Appointment,1,0,0,1,0.0,22.0
+Country_x_Solution,UK_x_PLS,UK,PLS,4,Call,1,0,0,1,0.0,1.0
+Country_x_Solution,UK_x_PLS,UK,PLS,5,Email → Email,1,0,0,1,0.0,2.0
+Country_x_Solution,US_x_Digital,US,Digital,1,Meeting → Meeting → Meeting → Meeting → Meeting,27,24,2,1,88.88888888888889,88.88888888888889
+Country_x_Solution,US_x_Digital,US,Digital,2,Meeting → Meeting → Email → Email → Email,9,9,0,0,100.0,60.22222222222222
+Country_x_Solution,US_x_Digital,US,Digital,3,Email → Email → Email → Email → Email,9,7,1,1,77.77777777777779,63.111111111111114
+Country_x_Solution,US_x_Digital,US,Digital,4,Email → Email → Inbound Call → Inbound Call → Inbound Call,6,0,0,6,0.0,17.666666666666668
+Country_x_Solution,US_x_Digital,US,Digital,5,Inbound Call → Inbound Call → Inbound Call → Inbound Call,5,0,0,5,0.0,4.0
+Country_x_Solution,US_x_MRS,US,MRS,1,Inbound Call,525,0,0,525,0.0,1.0
+Country_x_Solution,US_x_MRS,US,MRS,2,Inbound Call → Inbound Call,385,0,0,385,0.0,2.0
+Country_x_Solution,US_x_MRS,US,MRS,3,Meeting → Meeting → Meeting → Meeting → Meeting,375,184,101,90,49.06666666666666,41.312
+Country_x_Solution,US_x_MRS,US,MRS,4,Email → Email → Email → Email → Email,316,94,80,142,29.746835443037973,22.85759493670886
+Country_x_Solution,US_x_MRS,US,MRS,5,Email,280,1,21,258,0.35714285714285715,1.0
+Country_x_Solution,US_x_PLS,US,PLS,1,Inbound Call,5,0,0,5,0.0,1.0
+Country_x_Solution,US_x_PLS,US,PLS,2,Email → Email,4,0,0,4,0.0,2.0
+Country_x_Solution,US_x_PLS,US,PLS,3,Email → Email → Email → Email → Email,3,1,0,2,33.33333333333333,22.333333333333332
+Country_x_Solution,US_x_PLS,US,PLS,4,Email,3,0,0,3,0.0,1.0
+Country_x_Solution,US_x_PLS,US,PLS,5,Inbound Call → Email,3,0,0,3,0.0,2.0
+Country_x_Solution,[NULL]_x_MRS,[NULL],MRS,1,Email,30,0,0,30,0.0,1.0
+Country_x_Solution,[NULL]_x_MRS,[NULL],MRS,2,Email → Email,7,0,0,7,0.0,2.0
+Country_x_Solution,[NULL]_x_MRS,[NULL],MRS,3,1st Appointment,2,0,0,2,0.0,1.0
+Country_x_Solution,[NULL]_x_MRS,[NULL],MRS,4,1st Appointment → 2nd Appointment → Email,1,0,0,1,0.0,3.0
+Country_x_Solution,[NULL]_x_MRS,[NULL],MRS,5,1st Appointment → 2nd Appointment,1,0,0,1,0.0,2.0

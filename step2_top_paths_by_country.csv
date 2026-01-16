@@ -1,0 +1,51 @@
+segment_type,segment_value,rank,path,frequency,won,lost,ongoing,win_rate,avg_touches
+Country,US,1,Inbound Call,531,0,0,531,0.0,1.0
+Country,US,2,Meeting → Meeting → Meeting → Meeting → Meeting,404,208,105,91,51.48514851485149,44.70792079207921
+Country,US,3,Inbound Call → Inbound Call,389,0,0,389,0.0,2.0
+Country,US,4,Email → Email → Email → Email → Email,328,102,81,145,31.097560975609756,23.95731707317073
+Country,US,5,Email,283,1,21,261,0.35335689045936397,1.0
+Country,UK,1,Email,144,0,0,144,0.0,1.0
+Country,UK,2,1st Appointment,73,0,0,73,0.0,1.0
+Country,UK,3,Follow Up,59,0,0,59,0.0,1.0
+Country,UK,4,Email → Email,48,0,0,48,0.0,2.0
+Country,UK,5,Call,44,0,0,44,0.0,1.0
+Country,DE,1,Email,193,0,0,193,0.0,1.0
+Country,DE,2,Email → Email → Email → Email → Email,184,0,0,184,0.0,10.0
+Country,DE,3,Email → Email,154,0,0,154,0.0,2.0
+Country,DE,4,Email → Email → Email,99,0,0,99,0.0,3.0
+Country,DE,5,Email → Email → Email → Email,54,0,0,54,0.0,4.0
+Country,CH,1,Email → Email → Email → Email → Email,39,0,0,39,0.0,8.794871794871796
+Country,CH,2,Email,20,0,0,20,0.0,1.0
+Country,CH,3,Email → Email,18,0,0,18,0.0,2.0
+Country,CH,4,Email → Email → Email → Email,13,0,0,13,0.0,4.0
+Country,CH,5,Email → Email → Email,7,0,0,7,0.0,3.0
+Country,CA,1,Email,10,0,0,10,0.0,1.0
+Country,CA,2,Email → Email → Email → Email → Email,7,0,0,7,0.0,12.714285714285714
+Country,CA,3,Email → Email,5,0,0,5,0.0,2.0
+Country,CA,4,Email → Email → Email,3,0,0,3,0.0,3.0
+Country,CA,5,Email → Email → Email → Follow Up → Email,3,0,0,3,0.0,14.0
+Country,IE,1,Call,12,0,0,12,0.0,1.0
+Country,IE,2,Email → Email,5,0,0,5,0.0,2.0
+Country,IE,3,Email,4,0,0,4,0.0,1.0
+Country,IE,4,Call → Call,3,0,0,3,0.0,2.0
+Country,IE,5,Meeting → Call,3,0,0,3,0.0,2.0
+Country,IT,1,Call → Call → Call → Call → Call,5,0,0,5,0.0,11.2
+Country,IT,2,Meeting,5,0,0,5,0.0,1.0
+Country,IT,3,Email,4,0,0,4,0.0,1.0
+Country,IT,4,Call,4,0,0,4,0.0,1.0
+Country,IT,5,1st Appointment,3,0,0,3,0.0,1.0
+Country,AT,1,Email → Email → Email → Email → Email,23,0,0,23,0.0,8.043478260869565
+Country,AT,2,Email,19,0,0,19,0.0,1.0
+Country,AT,3,Email → Email,18,0,0,18,0.0,2.0
+Country,AT,4,Email → Email → Email,6,0,0,6,0.0,3.0
+Country,AT,5,Email → Email → Email → Email,4,0,0,4,0.0,4.0
+Country,[NULL],1,Email,30,0,0,30,0.0,1.0
+Country,[NULL],2,Email → Email,7,0,0,7,0.0,2.0
+Country,[NULL],3,1st Appointment,2,0,0,2,0.0,1.0
+Country,[NULL],4,1st Appointment → 2nd Appointment → Email,1,0,0,1,0.0,3.0
+Country,[NULL],5,1st Appointment → 2nd Appointment,1,0,0,1,0.0,2.0
+Country,NL,1,Email → Email,6,0,0,6,0.0,2.0
+Country,NL,2,Email → Email → Email,3,0,0,3,0.0,3.0
+Country,NL,3,Email,2,0,0,2,0.0,1.0
+Country,NL,4,1st Appointment,2,0,0,2,0.0,1.0
+Country,NL,5,Email → Email → 1st Appointment,1,0,0,1,0.0,3.0

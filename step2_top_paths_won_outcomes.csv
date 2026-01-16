@@ -1,0 +1,11 @@
+path,frequency,won,lost,ongoing,win_rate,avg_touches
+Meeting → Meeting → Meeting → Meeting → Meeting,208,208,0,0,100.0,61.90384615384615
+Email → Email → Email → Email → Email,102,102,0,0,100.0,35.36274509803921
+Meeting → Meeting → Email → Email → Email,60,60,0,0,100.0,39.75
+Meeting → Meeting → Meeting → Meeting → Email,47,47,0,0,100.0,73.61702127659575
+Meeting → Email → Email → Email → Email,39,39,0,0,100.0,36.0
+Meeting → Meeting → Meeting → Email → Email,31,31,0,0,100.0,35.903225806451616
+Meeting → Meeting → Meeting → Meeting → Follow Up,23,23,0,0,100.0,55.82608695652174
+Follow Up → Follow Up → Follow Up → Follow Up → Follow Up,19,19,0,0,100.0,52.31578947368421
+Follow Up → Email → Email → Email → Email,17,17,0,0,100.0,36.1764705882353
+Meeting → Meeting → Follow Up → Follow Up → Follow Up,13,13,0,0,100.0,91.61538461538461
