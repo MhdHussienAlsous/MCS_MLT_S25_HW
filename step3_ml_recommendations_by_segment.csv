@@ -1,0 +1,33 @@
+segment_type,segment_value,rank,action,confidence
+Country,US,1,Inbound Call,53.034418441608324
+Country,US,2,Email,19.88830270272158
+Country,US,3,Meeting,15.081944123886917
+Country,US,4,Follow Up,11.995334731783238
+Country,UK,1,Demo,20.44403552401995
+Country,UK,2,Review,19.00485167128008
+Country,UK,3,On-Site,17.028156572638167
+Country,UK,4,1st Appointment,12.52008809425546
+Country,DE,1,Email,100.0
+Country,DE,2,Review,0.0
+Country,DE,3,nan,0.0
+Country,DE,4,On-Site,0.0
+Solution,MRS,1,Inbound Call,53.034418441608324
+Solution,MRS,2,Email,19.88830270272158
+Solution,MRS,3,Meeting,15.081944123886917
+Solution,MRS,4,Follow Up,11.995334731783238
+Solution,Digital,1,Demo,20.44403552401995
+Solution,Digital,2,Review,19.00485167128008
+Solution,Digital,3,On-Site,17.028156572638167
+Solution,Digital,4,1st Appointment,12.52008809425546
+Country_x_Solution,US_MRS,1,Inbound Call,53.034418441608324
+Country_x_Solution,US_MRS,2,Email,19.88830270272158
+Country_x_Solution,US_MRS,3,Meeting,15.081944123886917
+Country_x_Solution,US_MRS,4,Follow Up,11.995334731783238
+Country_x_Solution,US_Digital,1,Demo,20.44403552401995
+Country_x_Solution,US_Digital,2,Review,19.00485167128008
+Country_x_Solution,US_Digital,3,On-Site,17.028156572638167
+Country_x_Solution,US_Digital,4,1st Appointment,12.52008809425546
+Country_x_Solution,UK_MRS,1,Demo,20.44403552401995
+Country_x_Solution,UK_MRS,2,Review,19.00485167128008
+Country_x_Solution,UK_MRS,3,On-Site,17.028156572638167
+Country_x_Solution,UK_MRS,4,1st Appointment,12.52008809425546
