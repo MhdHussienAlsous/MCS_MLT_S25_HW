@@ -1,0 +1,61 @@
+DATA CLEANING SUMMARY
+==================================================
+
+Original rows: 259917
+Cleaned rows: 146633
+Rows removed: 113284
+Percentage retained: 56.42%
+
+Columns in cleaned dataset:
+  - account_id
+  - SourceSystem
+  - activity_date
+  - who_id
+  - opportunity_id
+  - opportunity_stage
+  - is_lead
+  - types
+  - Country
+  - solution
+  - year
+  - month
+  - day_of_week
+  - touch_sequence
+  - days_since_last_touch
+  - journey_outcome
+
+Missing values after cleaning:
+account_id                   0
+SourceSystem                 0
+activity_date                0
+who_id                       0
+opportunity_id               0
+opportunity_stage            0
+is_lead                      0
+types                        0
+Country                      0
+solution                     0
+year                         0
+month                        0
+day_of_week                  0
+touch_sequence               0
+days_since_last_touch    10851
+journey_outcome              0
+
+Data types:
+account_id                       object
+SourceSystem                     object
+activity_date            datetime64[ns]
+who_id                           object
+opportunity_id                   object
+opportunity_stage                object
+is_lead                           int64
+types                            object
+Country                          object
+solution                         object
+year                              int32
+month                             int32
+day_of_week                       int32
+touch_sequence                    int64
+days_since_last_touch           float64
+journey_outcome                  object

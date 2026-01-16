@@ -1,0 +1,57 @@
+DETAILED DATA STATISTICS
+============================================================
+
+1. Action Types by Outcome:
+journey_outcome   Lost  Ongoing    Won
+types                                 
+1st Appointment      0     2634      0
+2nd Appointment      0     3338      0
+Call                 0     1190      1
+Demo               223      565    624
+Email            10522    20821  35023
+Follow Up         1902     3239   7302
+Inbound Call      4054    11045  18075
+Meeting           4176     6051  11038
+On-Site            388      777    644
+Review             434      825   1734
+
+2. Average Journey Length by Outcome:
+                      mean  median        std
+journey_outcome                              
+Lost             19.118062    12.0  22.555442
+Ongoing           6.449483     3.0  10.781694
+Won              39.449391    24.0  56.142028
+
+3. Top 10 Countries:
+         unique_accounts  total_activities
+Country                                   
+US                  7464            125158
+UK                  1797             13062
+DE                  1065              5764
+CH                   107               564
+CA                    92               668
+IE                    79               355
+AT                    74               290
+IT                    74               412
+[NULL]                55               114
+NL                    17                45
+
+4. Solution Statistics:
+          unique_accounts  total_activities
+solution                                   
+Digital               319             10554
+MRS                 10770            134221
+PLS                    90              1850
+
+5. Action Type Success Rate (Won %):
+types
+Follow Up          58.683597
+Review             57.935182
+Inbound Call       54.485440
+Email              52.772504
+Meeting            51.906889
+Demo               44.192635
+On-Site            35.599779
+Call                0.083963
+2nd Appointment     0.000000
+1st Appointment     0.000000
