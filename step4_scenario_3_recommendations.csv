@@ -1,0 +1,13 @@
+action,base_weight,rank,last_touch_weight,adjusted_weight,percentage,recommendation_type,country,solution,opportunity_stage,touch_count,last_action
+2nd Appointment,0.4767040169969038,1,0.0,0.5127564465951996,51.3,by_country,DE,MRS,Proposal,4,Meeting
+Call,0.38732201380998443,2,0.0,0.41661461285859974,41.7,by_country,DE,MRS,Proposal,4,Meeting
+On-Site,0.041849329255993856,3,0.0,0.045014332996139425,4.5,by_country,DE,MRS,Proposal,4,Meeting
+Meeting,0.03401945475003371,4,0.3,0.02561460755006127,2.6,by_country,DE,MRS,Proposal,4,Meeting
+2nd Appointment,0.4767040169969038,1,0.0,0.5127564465951996,51.3,by_solution,DE,MRS,Proposal,4,Meeting
+Call,0.38732201380998443,2,0.0,0.41661461285859974,41.7,by_solution,DE,MRS,Proposal,4,Meeting
+On-Site,0.041849329255993856,3,0.0,0.045014332996139425,4.5,by_solution,DE,MRS,Proposal,4,Meeting
+Meeting,0.03401945475003371,4,0.3,0.02561460755006127,2.6,by_solution,DE,MRS,Proposal,4,Meeting
+2nd Appointment,0.4767040169969038,1,0.0,0.5127564465951996,51.3,by_country_solution,DE,MRS,Proposal,4,Meeting
+Call,0.38732201380998443,2,0.0,0.41661461285859974,41.7,by_country_solution,DE,MRS,Proposal,4,Meeting
+On-Site,0.041849329255993856,3,0.0,0.045014332996139425,4.5,by_country_solution,DE,MRS,Proposal,4,Meeting
+Meeting,0.03401945475003371,4,0.3,0.02561460755006127,2.6,by_country_solution,DE,MRS,Proposal,4,Meeting

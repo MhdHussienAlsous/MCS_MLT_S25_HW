@@ -1,0 +1,13 @@
+action,base_weight,rank,last_touch_weight,adjusted_weight,percentage,recommendation_type,country,solution,opportunity_stage,touch_count,last_action
+2nd Appointment,0.4767040169969038,1,0.0,0.5071886869508805,50.7,by_country,UK,Digital,Qualification,1,Email
+Call,0.38732201380998443,2,0.0,0.4120908081475905,41.2,by_country,UK,Digital,Qualification,1,Email
+On-Site,0.041849329255993856,3,0.0,0.04452554540831665,4.5,by_country,UK,Digital,Qualification,1,Email
+Meeting,0.03401945475003371,4,0.0,0.03619495949321225,3.6,by_country,UK,Digital,Qualification,1,Email
+2nd Appointment,0.4767040169969038,1,0.0,0.5071886869508805,50.7,by_solution,UK,Digital,Qualification,1,Email
+Call,0.38732201380998443,2,0.0,0.4120908081475905,41.2,by_solution,UK,Digital,Qualification,1,Email
+On-Site,0.041849329255993856,3,0.0,0.04452554540831665,4.5,by_solution,UK,Digital,Qualification,1,Email
+Meeting,0.03401945475003371,4,0.0,0.03619495949321225,3.6,by_solution,UK,Digital,Qualification,1,Email
+2nd Appointment,0.4767040169969038,1,0.0,0.5071886869508805,50.7,by_country_solution,UK,Digital,Qualification,1,Email
+Call,0.38732201380998443,2,0.0,0.4120908081475905,41.2,by_country_solution,UK,Digital,Qualification,1,Email
+On-Site,0.041849329255993856,3,0.0,0.04452554540831665,4.5,by_country_solution,UK,Digital,Qualification,1,Email
+Meeting,0.03401945475003371,4,0.0,0.03619495949321225,3.6,by_country_solution,UK,Digital,Qualification,1,Email

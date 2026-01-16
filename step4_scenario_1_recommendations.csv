@@ -1,0 +1,13 @@
+action,base_weight,rank,adjusted_weight,percentage,last_touch_weight,recommendation_type,country,solution,opportunity_stage,touch_count,last_action
+2nd Appointment,0.4767040169969038,1,0.4767040169969038,47.7,0.0,by_country,US,MRS,Prospecting,0,None
+Call,0.38732201380998443,2,0.38732201380998443,38.7,0.0,by_country,US,MRS,Prospecting,0,None
+On-Site,0.041849329255993856,3,0.041849329255993856,4.2,0.0,by_country,US,MRS,Prospecting,0,None
+Meeting,0.03401945475003371,4,0.03401945475003371,3.4,0.0,by_country,US,MRS,Prospecting,0,None
+2nd Appointment,0.4767040169969038,1,0.4767040169969038,47.7,0.0,by_solution,US,MRS,Prospecting,0,None
+Call,0.38732201380998443,2,0.38732201380998443,38.7,0.0,by_solution,US,MRS,Prospecting,0,None
+On-Site,0.041849329255993856,3,0.041849329255993856,4.2,0.0,by_solution,US,MRS,Prospecting,0,None
+Meeting,0.03401945475003371,4,0.03401945475003371,3.4,0.0,by_solution,US,MRS,Prospecting,0,None
+2nd Appointment,0.4767040169969038,1,0.4767040169969038,47.7,0.0,by_country_solution,US,MRS,Prospecting,0,None
+Call,0.38732201380998443,2,0.38732201380998443,38.7,0.0,by_country_solution,US,MRS,Prospecting,0,None
+On-Site,0.041849329255993856,3,0.041849329255993856,4.2,0.0,by_country_solution,US,MRS,Prospecting,0,None
+Meeting,0.03401945475003371,4,0.03401945475003371,3.4,0.0,by_country_solution,US,MRS,Prospecting,0,None

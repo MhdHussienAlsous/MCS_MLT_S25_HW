@@ -1,0 +1,37 @@
+action,base_weight,rank,adjusted_weight,percentage,last_touch_weight,scenario,scenario_number,recommendation_type,country,solution,touch_count
+2nd Appointment,0.4767040169969038,1,0.4767040169969038,47.7,0.0,Scenario 1: US MRS Customer - New Journey,1,by_country,US,MRS,0
+Call,0.38732201380998443,2,0.38732201380998443,38.7,0.0,Scenario 1: US MRS Customer - New Journey,1,by_country,US,MRS,0
+On-Site,0.041849329255993856,3,0.041849329255993856,4.2,0.0,Scenario 1: US MRS Customer - New Journey,1,by_country,US,MRS,0
+Meeting,0.03401945475003371,4,0.03401945475003371,3.4,0.0,Scenario 1: US MRS Customer - New Journey,1,by_country,US,MRS,0
+2nd Appointment,0.4767040169969038,1,0.4767040169969038,47.7,0.0,Scenario 1: US MRS Customer - New Journey,1,by_solution,US,MRS,0
+Call,0.38732201380998443,2,0.38732201380998443,38.7,0.0,Scenario 1: US MRS Customer - New Journey,1,by_solution,US,MRS,0
+On-Site,0.041849329255993856,3,0.041849329255993856,4.2,0.0,Scenario 1: US MRS Customer - New Journey,1,by_solution,US,MRS,0
+Meeting,0.03401945475003371,4,0.03401945475003371,3.4,0.0,Scenario 1: US MRS Customer - New Journey,1,by_solution,US,MRS,0
+2nd Appointment,0.4767040169969038,1,0.4767040169969038,47.7,0.0,Scenario 1: US MRS Customer - New Journey,1,by_country_solution,US,MRS,0
+Call,0.38732201380998443,2,0.38732201380998443,38.7,0.0,Scenario 1: US MRS Customer - New Journey,1,by_country_solution,US,MRS,0
+On-Site,0.041849329255993856,3,0.041849329255993856,4.2,0.0,Scenario 1: US MRS Customer - New Journey,1,by_country_solution,US,MRS,0
+Meeting,0.03401945475003371,4,0.03401945475003371,3.4,0.0,Scenario 1: US MRS Customer - New Journey,1,by_country_solution,US,MRS,0
+2nd Appointment,0.4767040169969038,1,0.5071886869508805,50.7,0.0,Scenario 2: UK Digital Customer - After Email,2,by_country,UK,Digital,1
+Call,0.38732201380998443,2,0.4120908081475905,41.2,0.0,Scenario 2: UK Digital Customer - After Email,2,by_country,UK,Digital,1
+On-Site,0.041849329255993856,3,0.04452554540831665,4.5,0.0,Scenario 2: UK Digital Customer - After Email,2,by_country,UK,Digital,1
+Meeting,0.03401945475003371,4,0.03619495949321225,3.6,0.0,Scenario 2: UK Digital Customer - After Email,2,by_country,UK,Digital,1
+2nd Appointment,0.4767040169969038,1,0.5071886869508805,50.7,0.0,Scenario 2: UK Digital Customer - After Email,2,by_solution,UK,Digital,1
+Call,0.38732201380998443,2,0.4120908081475905,41.2,0.0,Scenario 2: UK Digital Customer - After Email,2,by_solution,UK,Digital,1
+On-Site,0.041849329255993856,3,0.04452554540831665,4.5,0.0,Scenario 2: UK Digital Customer - After Email,2,by_solution,UK,Digital,1
+Meeting,0.03401945475003371,4,0.03619495949321225,3.6,0.0,Scenario 2: UK Digital Customer - After Email,2,by_solution,UK,Digital,1
+2nd Appointment,0.4767040169969038,1,0.5071886869508805,50.7,0.0,Scenario 2: UK Digital Customer - After Email,2,by_country_solution,UK,Digital,1
+Call,0.38732201380998443,2,0.4120908081475905,41.2,0.0,Scenario 2: UK Digital Customer - After Email,2,by_country_solution,UK,Digital,1
+On-Site,0.041849329255993856,3,0.04452554540831665,4.5,0.0,Scenario 2: UK Digital Customer - After Email,2,by_country_solution,UK,Digital,1
+Meeting,0.03401945475003371,4,0.03619495949321225,3.6,0.0,Scenario 2: UK Digital Customer - After Email,2,by_country_solution,UK,Digital,1
+2nd Appointment,0.4767040169969038,1,0.5127564465951996,51.3,0.0,Scenario 3: Germany MRS - Mid-Journey,3,by_country,DE,MRS,4
+Call,0.38732201380998443,2,0.41661461285859974,41.7,0.0,Scenario 3: Germany MRS - Mid-Journey,3,by_country,DE,MRS,4
+On-Site,0.041849329255993856,3,0.045014332996139425,4.5,0.0,Scenario 3: Germany MRS - Mid-Journey,3,by_country,DE,MRS,4
+Meeting,0.03401945475003371,4,0.02561460755006127,2.6,0.3,Scenario 3: Germany MRS - Mid-Journey,3,by_country,DE,MRS,4
+2nd Appointment,0.4767040169969038,1,0.5127564465951996,51.3,0.0,Scenario 3: Germany MRS - Mid-Journey,3,by_solution,DE,MRS,4
+Call,0.38732201380998443,2,0.41661461285859974,41.7,0.0,Scenario 3: Germany MRS - Mid-Journey,3,by_solution,DE,MRS,4
+On-Site,0.041849329255993856,3,0.045014332996139425,4.5,0.0,Scenario 3: Germany MRS - Mid-Journey,3,by_solution,DE,MRS,4
+Meeting,0.03401945475003371,4,0.02561460755006127,2.6,0.3,Scenario 3: Germany MRS - Mid-Journey,3,by_solution,DE,MRS,4
+2nd Appointment,0.4767040169969038,1,0.5127564465951996,51.3,0.0,Scenario 3: Germany MRS - Mid-Journey,3,by_country_solution,DE,MRS,4
+Call,0.38732201380998443,2,0.41661461285859974,41.7,0.0,Scenario 3: Germany MRS - Mid-Journey,3,by_country_solution,DE,MRS,4
+On-Site,0.041849329255993856,3,0.045014332996139425,4.5,0.0,Scenario 3: Germany MRS - Mid-Journey,3,by_country_solution,DE,MRS,4
+Meeting,0.03401945475003371,4,0.02561460755006127,2.6,0.3,Scenario 3: Germany MRS - Mid-Journey,3,by_country_solution,DE,MRS,4
