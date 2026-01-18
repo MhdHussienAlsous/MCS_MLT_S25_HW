@@ -1,0 +1,11 @@
+scenario,step,action,opportunity_stage,action_confidence,win_probability
+Scenario 3: Germany MRS Customer,1,2nd Appointment,Discovery,0.4767040169969038,0.5670000000000001
+Scenario 3: Germany MRS Customer,2,Call,Discovery,0.38732201380998443,0.6040000000000001
+Scenario 3: Germany MRS Customer,3,2nd Appointment,Discovery,0.4767040169969038,0.6160000000000001
+Scenario 3: Germany MRS Customer,4,On-Site,Discovery,0.041849329255993856,0.733
+Scenario 3: Germany MRS Customer,5,1st Appointment,Discovery,0.030770053513160107,0.77
+Scenario 3: Germany MRS Customer,6,Call,Discovery,0.38732201380998443,0.782
+Scenario 3: Germany MRS Customer,7,2nd Appointment,Discovery,0.4767040169969038,0.7939999999999999
+Scenario 3: Germany MRS Customer,8,On-Site,Proposal,0.041849329255993856,0.8059999999999999
+Scenario 3: Germany MRS Customer,9,1st Appointment,Proposal,0.030770053513160107,0.818
+Scenario 3: Germany MRS Customer,10,Call,Proposal,0.38732201380998443,0.83

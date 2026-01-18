@@ -1,0 +1,11 @@
+scenario,step,action,opportunity_stage,action_confidence,win_probability
+Scenario 2: UK Digital Customer,1,2nd Appointment,Qualification,0.4767040169969038,0.5670000000000001
+Scenario 2: UK Digital Customer,2,Call,Qualification,0.38732201380998443,0.6040000000000001
+Scenario 2: UK Digital Customer,3,2nd Appointment,Qualification,0.4767040169969038,0.6160000000000001
+Scenario 2: UK Digital Customer,4,On-Site,Qualification,0.041849329255993856,0.733
+Scenario 2: UK Digital Customer,5,Meeting,Discovery,0.03401945475003371,0.81
+Scenario 2: UK Digital Customer,6,Call,Discovery,0.38732201380998443,0.8220000000000001
+Scenario 2: UK Digital Customer,7,2nd Appointment,Discovery,0.4767040169969038,0.834
+Scenario 2: UK Digital Customer,8,On-Site,Proposal,0.041849329255993856,0.846
+Scenario 2: UK Digital Customer,9,1st Appointment,Proposal,0.030770053513160107,0.883
+Scenario 2: UK Digital Customer,10,Call,Proposal,0.38732201380998443,0.895

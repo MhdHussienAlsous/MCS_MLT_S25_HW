@@ -1,0 +1,4 @@
+scenario,journey_length,unique_actions,diversity_score,action_sequence,final_win_probability,avg_confidence
+Scenario 1: US MRS Customer,4,3,0.75,2nd Appointment → Call → 2nd Appointment → Meeting,0.949286740692358,0.3436873756384564
+Scenario 2: UK Digital Customer,9,6,0.6666666666666666,2nd Appointment → Call → 2nd Appointment → Review → 1st Appointment → Call → 2nd Appointment → On-Site → Meeting,0.908,0.25941651086340284
+Scenario 3: Germany MRS Customer,10,5,0.5,2nd Appointment → Call → 2nd Appointment → Review → Meeting → Call → 2nd Appointment → Email → Review → Call,0.815,0.2678786360485379

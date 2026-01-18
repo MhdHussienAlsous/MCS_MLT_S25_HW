@@ -1,0 +1,5 @@
+scenario,step,action,opportunity_stage,action_confidence,win_probability
+Scenario 1: US MRS Customer,1,2nd Appointment,Prospecting,0.4767040169969038,0.823286740692358
+Scenario 1: US MRS Customer,2,Call,Prospecting,0.38732201380998443,0.860286740692358
+Scenario 1: US MRS Customer,3,2nd Appointment,Qualification,0.4767040169969038,0.872286740692358
+Scenario 1: US MRS Customer,4,On-Site,Qualification,0.041849329255993856,0.95
